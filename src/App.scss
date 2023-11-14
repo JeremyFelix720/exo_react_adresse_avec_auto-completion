@@ -43,3 +43,22 @@
 
 // CSS PERSO
 
+ul {
+  text-align: left;
+  
+  li {
+    list-style-type: none;
+    background-color: lightgrey;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+}
+
+.show {
+  visibility: visible;
+}
+
+.hide {
+  visibility: hidden;
+}
